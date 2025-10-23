@@ -27,7 +27,7 @@ const LandingPage = () => {
           lineHeight: '1.2',
           marginBottom: '76px'
         }}>
-          Consulta precios de la canasta familiar colombiana en tiempo real. en dev 2
+          Consulta precios de la canasta familiar colombiana en tiempo real. Estamos en la UPB
         </h1>
 
         {/* Hero section */}
